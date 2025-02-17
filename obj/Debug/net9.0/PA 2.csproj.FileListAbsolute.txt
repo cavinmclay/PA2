@@ -1,0 +1,15 @@
+/Users/cavinmclay/Documents/PA 2/obj/Debug/net9.0/PA 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cavinmclay/Documents/PA 2/obj/Debug/net9.0/PA 2.AssemblyInfoInputs.cache
+/Users/cavinmclay/Documents/PA 2/obj/Debug/net9.0/PA 2.AssemblyInfo.cs
+/Users/cavinmclay/Documents/PA 2/obj/Debug/net9.0/PA 2.csproj.CoreCompileInputs.cache
+/Users/cavinmclay/Documents/PA 2/obj/Debug/net9.0/PA 2.sourcelink.json
+/Users/cavinmclay/Documents/PA 2/bin/Debug/net9.0/PA 2
+/Users/cavinmclay/Documents/PA 2/bin/Debug/net9.0/PA 2.deps.json
+/Users/cavinmclay/Documents/PA 2/bin/Debug/net9.0/PA 2.runtimeconfig.json
+/Users/cavinmclay/Documents/PA 2/bin/Debug/net9.0/PA 2.dll
+/Users/cavinmclay/Documents/PA 2/bin/Debug/net9.0/PA 2.pdb
+/Users/cavinmclay/Documents/PA 2/obj/Debug/net9.0/PA 2.dll
+/Users/cavinmclay/Documents/PA 2/obj/Debug/net9.0/refint/PA 2.dll
+/Users/cavinmclay/Documents/PA 2/obj/Debug/net9.0/PA 2.pdb
+/Users/cavinmclay/Documents/PA 2/obj/Debug/net9.0/PA 2.genruntimeconfig.cache
+/Users/cavinmclay/Documents/PA 2/obj/Debug/net9.0/ref/PA 2.dll
